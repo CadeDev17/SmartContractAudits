@@ -82,9 +82,9 @@ The most used modifiers in this contract are the onlyFactory() and marketExists(
             revert AddressNotFactory(msg.sender);
         _;
     }
-```
-Can be converted too
-```solidity
+
+    // Can be converted too
+
     function onlyFactory() {
         if(msg.sender != factory)
             revert AddressNotFactory(msg.sender);
@@ -112,9 +112,9 @@ VaultFactory.sol [Line-159](https://github.com/code-423n4/2022-09-y2k-finance/bl
 
 ```solidity
     marketIndex += 1;
-```
-can be converted to:
-```solidity
+
+    // can be converted to:
+
     marketIndex = marketIndex + 1
 ```
 
