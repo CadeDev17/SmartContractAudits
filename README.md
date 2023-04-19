@@ -12,9 +12,9 @@ Website: [BitsOrBytes.com](www.bitsorbytes.com)
 
 ## Code4rena
 
-| Date    | Protocol Name     | High | Medium | Low | Non-Critical | Gas   | Rank    |
-| ------- | ---------------- | ----- | ------ | --- | ------------ | ----- | ------- |
-| 2023-04 | [Frankencoin](https://github.com/code-423n4/2023-04-frankencoin) | 0     | 3      | 0   | 0            | 2     | -/-     |
+| Date    | Protocol Name     | High | Medium | Low | Non-Critical | Gas   |
+| ------- | ---------------- | ----- | ------ | --- | ------------ | ----- |
+| 2023-04 | [Frankencoin](https://github.com/code-423n4/2023-04-frankencoin) | 0     | 3      | 0   | 0            | 2     |
 
 
 <!-- ## Sherlock
